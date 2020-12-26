@@ -1,4 +1,4 @@
-Word Cloud
+**Word Cloud**
 
 Given the source code, you are able to:
 
